@@ -146,8 +146,6 @@ const Contact = () => {
           {/* /Contact Form */}
           {/* Contact Info */}
           <div className="resumo_fn_contact_info">
-            <p>Address</p>
-            <h3>1009 Balfoure Drive, Wilmington, NC, 28412</h3>
             <p>Phone</p>
             <h3>
               <a href="tel:+9105087320">(910) 508-7320</a>
