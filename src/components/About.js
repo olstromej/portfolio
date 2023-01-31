@@ -186,7 +186,7 @@ const About = () => {
                         </div>
                         <h3>Masters Degree</h3>
                         <p>
-                          Studying a Masters Degree in Business Administration with a concentration in Cybesecurity Management{" "}
+                          Studying a Masters Degree in Business Administration with a Concentration in Cybesecurity Management{" "}
                         </p>
                       </div>
                     </li>
@@ -198,7 +198,7 @@ const About = () => {
                         </div>
                         <h3>Bachelor Degree</h3>
                         <p>
-                          Graduated with a Bachelors Degree in Information Technology, where I acheived a 3.96 GPA, maintained Deans List recognition, and graduated with honors.{" "}
+                          Graduated with a Bachelors Degree in Information Technology, where I achieved a 3.96 GPA, maintained Deans List recognition, and graduated with honors.{" "}
                         </p>
                       </div>
                     </li>
@@ -210,7 +210,7 @@ const About = () => {
                         </div>
                         <h3>Bachelor Degree</h3>
                         <p>
-                          Graduated with a Bachelors degree in Criminal Justice with a concentration in Homeland Security, where I acheived a 3.75 GPA.{" "}
+                          Graduated with a Bachelors Degree in Criminal Justice with a Concentration in Homeland Security, where I achieved a 3.75 GPA.{" "}
                         </p>
                       </div>
                     </li>
