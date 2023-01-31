@@ -133,42 +133,38 @@ const About = () => {
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Frenify LLC</h5>
-                          <span>( 2018 — Today )</span>
+                          <h5>Fidelity Investments</h5>
+                          <span>( June 2023 — Today )</span>
                         </div>
-                        <h3>Sr. Front-end Engineer</h3>
+                        <h3>Associate Systems Engineer</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                         Associate Systems Engineer for Fidelity Investments.{" "}
                         </p>
                       </div>
                     </li>
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Google LLC</h5>
-                          <span>( 2016 — 2018 )</span>
+                          <h5>General Assembly</h5>
+                          <span>( November 2022 — Februry 2023 )</span>
                         </div>
-                        <h3>Front-end Developer</h3>
+                        <h3>Student Software Engineer</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                        Successfully completed three month, 420-hour full-time and full stack program conducted in-person providing experience with the latest front-end and backend programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Python, Django, Express, NodeJS, and ReactS..{" "}
                         </p>
                       </div>
                     </li>
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Twitter LLC</h5>
-                          <span>( 2016 — 2011 )</span>
+                          <h5>United States Coast Guard</h5>
+                          <span>( 2015 — 2022 )</span>
                         </div>
-                        <h3>Graphic Designer</h3>
+                        <h3>Maritime Operations Manager</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                        • Coached and mentored 150+ active-duty members on military operations, training requirements, data entry, which resulted in 50 percent increase in team safety and intentional culture-building.
+                        • Managed vessel reporting (data-entry) for 1000+ hours of operations, maintenance, and crew readiness, resulting in 100% OKR evaluation.
+                        • Led and oversaw $750K in maintenance projects on-site to ensure optimized vessel operations, ensuring safety for crew of 100+ service members.{" "}
                         </p>
                       </div>
                     </li>
@@ -185,42 +181,36 @@ const About = () => {
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Frenify University</h5>
-                          <span>( 2014 — 2017 )</span>
+                          <h5>Saint Leo University</h5>
+                          <span>( 2023 - Today )</span>
                         </div>
-                        <h3>Computer Science</h3>
+                        <h3>Masters Degree</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                          Studying a Masters Degree in Business Administration with a concentration in Cybesecurity Management{" "}
                         </p>
                       </div>
                     </li>
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Edu University</h5>
-                          <span>( 2011 — 2014 )</span>
-                        </div>
-                        <h3>Master Degree</h3>
-                        <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
-                        </p>
-                      </div>
-                    </li>
-                    <li>
-                      <div className="item">
-                        <div className="item_top">
-                          <h5>Clolumbia College</h5>
-                          <span>( 2007 — 2011 )</span>
+                          <h5>American Public University System</h5>
+                          <span>( 2021 — 2022 )</span>
                         </div>
                         <h3>Bachelor Degree</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                          Graduated with a Bachelors Degree in Information Technology, where I acheived a 3.96 GPA, maintained Deans List recognition, and graduated with honors.{" "}
+                        </p>
+                      </div>
+                    </li>
+                    <li>
+                      <div className="item">
+                        <div className="item_top">
+                          <h5>Saint Leo University</h5>
+                          <span>( 2017 — 2018 )</span>
+                        </div>
+                        <h3>Bachelor Degree</h3>
+                        <p>
+                          Graduated with a Bachelors degree in Criminal Justice with a concentration in Homeland Security, where I acheived a 3.75 GPA.{" "}
                         </p>
                       </div>
                     </li>

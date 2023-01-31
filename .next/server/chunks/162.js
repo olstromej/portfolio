@@ -243,19 +243,19 @@ const About = ()=>{
                                                                     className: "item_top",
                                                                     children: [
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
-                                                                            children: "Frenify LLC"
+                                                                            children: "Fidelity Investments"
                                                                         }),
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                                            children: "( 2018 — Today )"
+                                                                            children: "( June 2023 — Today )"
                                                                         })
                                                                     ]
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
-                                                                    children: "Sr. Front-end Engineer"
+                                                                    children: "Associate Systems Engineer"
                                                                 }),
                                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                     children: [
-                                                                        "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                                                        "Associate Systems Engineer for Fidelity Investments.",
                                                                         " "
                                                                     ]
                                                                 })
@@ -270,19 +270,19 @@ const About = ()=>{
                                                                     className: "item_top",
                                                                     children: [
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
-                                                                            children: "Google LLC"
+                                                                            children: "General Assembly"
                                                                         }),
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                                            children: "( 2016 — 2018 )"
+                                                                            children: "( November 2022 — Februry 2023 )"
                                                                         })
                                                                     ]
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
-                                                                    children: "Front-end Developer"
+                                                                    children: "Student Software Engineer"
                                                                 }),
                                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                     children: [
-                                                                        "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                                                        "Successfully completed three month, 420-hour full-time and full stack program conducted in-person providing experience with the latest front-end and backend programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Python, Django, Express, NodeJS, and ReactS..",
                                                                         " "
                                                                     ]
                                                                 })
@@ -297,19 +297,19 @@ const About = ()=>{
                                                                     className: "item_top",
                                                                     children: [
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
-                                                                            children: "Twitter LLC"
+                                                                            children: "United States Coast Guard"
                                                                         }),
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                                            children: "( 2016 — 2011 )"
+                                                                            children: "( 2015 — 2022 )"
                                                                         })
                                                                     ]
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
-                                                                    children: "Graphic Designer"
+                                                                    children: "Maritime Operations Manager"
                                                                 }),
                                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                     children: [
-                                                                        "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                                                        "• Coached and mentored 150+ active-duty members on military operations, training requirements, data entry, which resulted in 50 percent increase in team safety and intentional culture-building. • Managed vessel reporting (data-entry) for 1000+ hours of operations, maintenance, and crew readiness, resulting in 100% OKR evaluation. • Led and oversaw $750K in maintenance projects on-site to ensure optimized vessel operations, ensuring safety for crew of 100+ service members.",
                                                                         " "
                                                                     ]
                                                                 })
@@ -335,19 +335,19 @@ const About = ()=>{
                                                                     className: "item_top",
                                                                     children: [
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
-                                                                            children: "Frenify University"
+                                                                            children: "Saint Leo University"
                                                                         }),
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                                            children: "( 2014 — 2017 )"
+                                                                            children: "( 2023 - Today )"
                                                                         })
                                                                     ]
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
-                                                                    children: "Computer Science"
+                                                                    children: "Masters Degree"
                                                                 }),
                                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                     children: [
-                                                                        "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                                                        "Studying a Masters Degree in Business Administration with a concentration in Cybesecurity Management",
                                                                         " "
                                                                     ]
                                                                 })
@@ -362,37 +362,10 @@ const About = ()=>{
                                                                     className: "item_top",
                                                                     children: [
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
-                                                                            children: "Edu University"
+                                                                            children: "American Public University System"
                                                                         }),
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                                            children: "( 2011 — 2014 )"
-                                                                        })
-                                                                    ]
-                                                                }),
-                                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
-                                                                    children: "Master Degree"
-                                                                }),
-                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
-                                                                    children: [
-                                                                        "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                                                                        " "
-                                                                    ]
-                                                                })
-                                                            ]
-                                                        })
-                                                    }),
-                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
-                                                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                                            className: "item",
-                                                            children: [
-                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
-                                                                    className: "item_top",
-                                                                    children: [
-                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
-                                                                            children: "Clolumbia College"
-                                                                        }),
-                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                                            children: "( 2007 — 2011 )"
+                                                                            children: "( 2021 — 2022 )"
                                                                         })
                                                                     ]
                                                                 }),
@@ -401,7 +374,34 @@ const About = ()=>{
                                                                 }),
                                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                     children: [
-                                                                        "Adipisicing Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                                                        "Graduated with a Bachelors Degree in Information Technology, where I acheived a 3.96 GPA, maintained Deans List recognition, and graduated with honors.",
+                                                                        " "
+                                                                    ]
+                                                                })
+                                                            ]
+                                                        })
+                                                    }),
+                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                            className: "item",
+                                                            children: [
+                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                                    className: "item_top",
+                                                                    children: [
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h5", {
+                                                                            children: "Saint Leo University"
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                            children: "( 2017 — 2018 )"
+                                                                        })
+                                                                    ]
+                                                                }),
+                                                                /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
+                                                                    children: "Bachelor Degree"
+                                                                }),
+                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
+                                                                    children: [
+                                                                        "Graduated with a Bachelors degree in Criminal Justice with a concentration in Homeland Security, where I acheived a 3.75 GPA.",
                                                                         " "
                                                                     ]
                                                                 })
