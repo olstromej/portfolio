@@ -1524,10 +1524,10 @@ const PanelContent = ()=>{
         const Typed = __webpack_require__(3603);
         new Typed(".animated_title", {
             strings: [
-                "Bruce Wilson",
-                "Web Developer",
-                "Freelancer",
-                "Photographer"
+                "Edward Olstrom",
+                "Systems Engineer",
+                "Sofware Engineer",
+                "Web Developer"
             ],
             loop: true,
             smartBackspace: false,
@@ -1557,7 +1557,7 @@ const PanelContent = ()=>{
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                                 className: "abs_img",
-                                "data-bg-img": "img/right.jpg"
+                                "data-bg-img": "https://i.imgur.com/jydoQMr.jpg"
                             })
                         ]
                     }),
@@ -1587,7 +1587,7 @@ const PanelContent = ()=>{
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("span", {
                             className: "text",
-                            children: "I’m available for a freelance job. Hire me"
+                            children: "Let's Talk Technology!"
                         })
                     ]
                 })
