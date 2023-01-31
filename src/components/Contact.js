@@ -32,7 +32,7 @@ const Contact = () => {
             <h3 className="subtitle">Contact</h3>
             <h3 className="title">Get In Touch</h3>
             <p className="desc">
-              If you want to reach out to discuss my projects you want to say
+              If you want to reach out to discuss my projects or you want to say
               “hello”, please fill out the form below and I will reply you
               shortly.
             </p>
