@@ -645,7 +645,7 @@ const Contact = ()=>{
                                 },
                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                     className: "contact_success",
-                                    children: "Your message has been received, we will contact you soon."
+                                    children: "Your message has been received, I will contact you soon."
                                 })
                             }),
                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
