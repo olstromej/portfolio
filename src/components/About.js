@@ -164,7 +164,13 @@ const About = () => {
                         <p>
                         • Coached and mentored 150+ active-duty members on military operations, training requirements, data entry, which resulted in 50 percent increase in team safety and intentional culture-building.
                         • Managed vessel reporting (data-entry) for 1000+ hours of operations, maintenance, and crew readiness, resulting in 100% OKR evaluation.
-                        • Led and oversaw $750K in maintenance projects on-site to ensure optimized vessel operations, ensuring safety for crew of 100+ service members.{" "}
+                        • Led and oversaw $750K in maintenance projects on-site to ensure optimized vessel operations, ensuring safety for crew of 100+ service members. 
+                        • Respond to search and rescue cases and provide emergency trauma care to wounded civilians. 
+                        • Create training plans that would maintain qualifications to 60 people on a bi-annual basis. 
+                        • Respond to non-compliant vessels and ensure compliance to all federal laws and regulations. 
+                        • Developed, maintained, and facilitated 4 tech onboarding programs, resulting in 30+ certified members.
+                        • Coordinated +500 hours of scheduled maintenance and inspections, resulting in 98% federal leadership rate.
+                        • Organized and led emergency response drills to efficiently increase response time for search and rescue response, which increased response times by 75%.{" "}
                         </p>
                       </div>
                     </li>
