@@ -427,14 +427,14 @@ const About = ()=>{
                                                             children: [
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                                                     className: "progress_title",
-                                                                    children: "Adobe Photoshop"
+                                                                    children: "Javascript"
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                     className: "progress_percent",
                                                                     style: {
                                                                         right: "8%"
                                                                     },
-                                                                    children: "92%"
+                                                                    children: "85%"
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "bg_wrap",
@@ -456,14 +456,14 @@ const About = ()=>{
                                                             children: [
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                                                     className: "progress_title",
-                                                                    children: "HTML5 & CSS3"
+                                                                    children: "Python & Django"
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                     className: "progress_percent",
                                                                     style: {
                                                                         right: "5%"
                                                                     },
-                                                                    children: "95%"
+                                                                    children: "85%"
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "bg_wrap",
@@ -485,14 +485,14 @@ const About = ()=>{
                                                             children: [
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                                                     className: "progress_title",
-                                                                    children: "WordPress"
+                                                                    children: "React"
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                     className: "progress_percent",
                                                                     style: {
                                                                         right: "20%"
                                                                     },
-                                                                    children: "80%"
+                                                                    children: "75%"
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "bg_wrap",
@@ -514,14 +514,14 @@ const About = ()=>{
                                                             children: [
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                                                     className: "progress_title",
-                                                                    children: "Adobe Illustrator"
+                                                                    children: "SQL"
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                     className: "progress_percent",
                                                                     style: {
                                                                         right: "15%"
                                                                     },
-                                                                    children: "85%"
+                                                                    children: "90%"
                                                                 }),
                                                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                     className: "bg_wrap",
@@ -540,7 +540,7 @@ const About = ()=>{
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                 className: "resumo_fn_desc",
                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                    children: "I am a challenge-driven systems/software engineer and veteran of the United States Coast Guard. I have always been able to maintain a positive attitude at work even while making life-saving split-second decisions and will provide my team with a unique perspective from these experiences. My dedication to my work, the constant drive to be successful, and the willingness to always provide support to any team I am a part of are reasons I will be an indispensable member of any team!"
+                                                    children: "Full List of Skills: Full-Stack Development \xb7 JavaScript \xb7 React.js \xb7 Back-End Web Development \xb7 SQL \xb7 MongoDB \xb7 Mongoose ODM \xb7 jQuery \xb7 Django \xb7 NoSQL \xb7 Postman API \xb7 Relational Databases \xb7 REST APIs \xb7 Node.js \xb7 Express.js \xb7 GitHub \xb7 Git \xb7 PostgreSQL \xb7 Front-End Development \xb7 Python (Programming Language) \xb7 Microsoft Excel \xb7 Object-Oriented Programming (OOP) \xb7 Cascading Style Sheets (CSS) \xb7 HTML \xb7 Data Entry \xb7 Program Management \xb7 Microsoft Word \xb7 Troubleshooting \xb7 Teamwork \xb7 Critical Thinking \xb7 Time Management \xb7 Web Development"
                                                 })
                                             })
                                         ]
@@ -871,11 +871,11 @@ const Home = ()=>{
 const Modalbox = ({ close , value  })=>{
     const data = [
         {
-            name: "Sweet Cherry",
-            tag: "illustration, design",
+            name: "Connect Four",
+            tag: "Javascript, HMTL",
             desc: [
                 {
-                    p: "Sed ornare tellus a odio bibendum, at tristique sapien malesuada. Proin sagittis maximus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Sed sollicitudin rhoncus blandit. Nam accumsan vestibulum enim. Sed rutrum eu leo pellentesque lobortis. Integer ornare fringilla arcu, eu mattis risus convallis in."
+                    p: "A Connect Four game with built-in CSS animation that allows a user to reset after a game has been won. Built with Javascript, HTML, CSS, Flexbox"
                 }
             ]
         },
@@ -1161,12 +1161,12 @@ const Portfolio = ()=>{
                                         className: "title_holder",
                                         children: [
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                                children: "illustration, design"
+                                                children: "Javascript, HTML"
                                             }),
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                     href: "#",
-                                                    children: "Sweet Cherry"
+                                                    children: "Connect Four"
                                                 })
                                             })
                                         ]
@@ -1176,11 +1176,11 @@ const Portfolio = ()=>{
                                         children: [
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                                 className: "fn__cat",
-                                                children: "illustration, design"
+                                                children: "Javascript, HTML"
                                             }),
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                                                 className: "fn__title",
-                                                children: "Sweet Cherry"
+                                                children: "Connect Four"
                                             }),
                                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                                 className: "img_holder",
@@ -1197,7 +1197,7 @@ const Portfolio = ()=>{
                                             }),
                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                                 className: "fn__desc",
-                                                children: "Sed ornare tellus a odio bibendum, at tristique sapien malesuada. Proin sagittis maximus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Sed sollicitudin rhoncus blandit. Nam accumsan vestibulum enim. Sed rutrum eu leo pellentesque lobortis. Integer ornare fringilla arcu, eu mattis risus convallis in."
+                                                children: "A Connect Four game with built-in CSS animation that allows a user to reset after a game has been won. Built with Javascript, HTML, CSS, Flexbox."
                                             })
                                         ]
                                     })
@@ -1627,25 +1627,7 @@ const Footer = ()=>{
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                 className: "footer_content",
                 children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                    className: "container",
-                    children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                        children: [
-                            "Copyright \xa9 ",
-                            new Date().getFullYear(),
-                            ". All rights reserved. ",
-                            /*#__PURE__*/ jsx_runtime_.jsx("br", {
-                            }),
-                            "Developed by",
-                            " ",
-                            /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                className: "fn__link",
-                                href: "https://themeforest.net/user/trendycoder",
-                                target: "_blank",
-                                rel: "noreferrer",
-                                children: "TrendyCoder"
-                            })
-                        ]
-                    })
+                    className: "container"
                 })
             })
         ]

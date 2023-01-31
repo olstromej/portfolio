@@ -225,12 +225,12 @@ const About = () => {
                 <div className="resumo_fn_progress_bar">
                   <div className="progress_item open" data-value={92}>
                     <div className="item_in">
-                      <h3 className="progress_title">Adobe Photoshop</h3>
+                      <h3 className="progress_title">Javascript</h3>
                       <span
                         className="progress_percent"
                         style={{ right: "8%" }}
                       >
-                        92%
+                        85%
                       </span>
                       <div className="bg_wrap">
                         <div className="progress_bg" style={{ width: "92%" }} />
@@ -239,12 +239,12 @@ const About = () => {
                   </div>
                   <div className="progress_item open" data-value={95}>
                     <div className="item_in">
-                      <h3 className="progress_title">HTML5 &amp; CSS3</h3>
+                      <h3 className="progress_title">Python &amp; Django</h3>
                       <span
                         className="progress_percent"
                         style={{ right: "5%" }}
                       >
-                        95%
+                        85%
                       </span>
                       <div className="bg_wrap">
                         <div className="progress_bg" style={{ width: "95%" }} />
@@ -253,12 +253,12 @@ const About = () => {
                   </div>
                   <div className="progress_item open" data-value={80}>
                     <div className="item_in">
-                      <h3 className="progress_title">WordPress</h3>
+                      <h3 className="progress_title">React</h3>
                       <span
                         className="progress_percent"
                         style={{ right: "20%" }}
                       >
-                        80%
+                        75%
                       </span>
                       <div className="bg_wrap">
                         <div className="progress_bg" style={{ width: "80%" }} />
@@ -267,12 +267,12 @@ const About = () => {
                   </div>
                   <div className="progress_item open" data-value={85}>
                     <div className="item_in">
-                      <h3 className="progress_title">Adobe Illustrator</h3>
+                      <h3 className="progress_title">SQL</h3>
                       <span
                         className="progress_percent"
                         style={{ right: "15%" }}
                       >
-                        85%
+                        90%
                       </span>
                       <div className="bg_wrap">
                         <div className="progress_bg" style={{ width: "85%" }} />
@@ -285,7 +285,8 @@ const About = () => {
                 {/* Description */}
                 <div className="resumo_fn_desc">
                   <p>
-                  I am a challenge-driven systems/software engineer and veteran of the United States Coast Guard. I have always been able to maintain a positive attitude at work even while making life-saving split-second decisions and will provide my team with a unique perspective from these experiences. My dedication to my work, the constant drive to be successful, and the willingness to always provide support to any team I am a part of are reasons I will be an indispensable member of any team!
+                  Full List of Skills:
+                  Full-Stack Development · JavaScript · React.js · Back-End Web Development · SQL · MongoDB · Mongoose ODM · jQuery · Django · NoSQL · Postman API · Relational Databases · REST APIs · Node.js · Express.js · GitHub · Git · PostgreSQL · Front-End Development · Python (Programming Language) · Microsoft Excel · Object-Oriented Programming (OOP) · Cascading Style Sheets (CSS) · HTML · Data Entry · Program Management · Microsoft Word · Troubleshooting · Teamwork · Critical Thinking · Time Management · Web Development
                   </p>
                 </div>
               </div>

@@ -11,7 +11,7 @@ const Footer = () => {
       </div>
       <div className="footer_content">
         <div className="container">
-          <p>
+          {/* <p>
             Copyright © {new Date().getFullYear()}. All rights reserved. <br />
             Developed by{" "}
             <a
@@ -22,7 +22,7 @@ const Footer = () => {
             >
               TrendyCoder
             </a>
-          </p>
+          </p> */}
         </div>
       </div>
     </footer>
