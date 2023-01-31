@@ -46,7 +46,7 @@ const Portfolio = () => {
                 <div className="abs_img" data-bg-img="img/portfolio/1.jpg" />
               </div>
               <div className="title_holder">
-                <p>Javascript, HTML</p>
+                <p>Javascript, HTML, CSS</p>
                 <h3>
                   <a href="#">Connect Four</a>
                 </h3>
@@ -76,50 +76,22 @@ const Portfolio = () => {
                 <div className="abs_img" data-bg-img="img/portfolio/2.jpg" />
               </div>
               <div className="title_holder">
-                <p>web, mobile, online</p>
+                <p>Mongoose, Express, API, CRUD</p>
                 <h3>
-                  <a href="#">Delicious Fruit</a>
+                  <a href="#">API Project</a>
                 </h3>
               </div>
               <div className="fn__hidden">
-                <p className="fn__cat">web, mobile, online</p>
-                <h3 className="fn__title">Delicious Fruit</h3>
+                <p className="fn__cat">Express, Mongoose</p>
+                <h3 className="fn__title">JSON API</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
                   <div className="abs_img" data-bg-img="img/portfolio/2.jpg" />
                 </div>
                 <p className="fn__desc">
-                  Sed ornare tellus a odio bibendum, at tristique sapien
-                  malesuada. Proin sagittis maximus accumsan. Class aptent
-                  taciti sociosqu ad litora torquent per conubia nostra, per
-                  inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Quisque gravida quam sit amet elit varius
-                  tempor. Pellentesque purus eros, blandit eu mollis vel,
-                  commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at
-                  nunc consectetur efficitur ut quis est. Proin posuere orci
-                  eget vulputate fringilla. Curabitur placerat massa eget
-                  efficitur cursus. Sed sollicitudin rhoncus blandit. Nam
-                  accumsan vestibulum enim. Sed rutrum eu leo pellentesque
-                  lobortis. Integer ornare fringilla arcu, eu mattis risus
-                  convallis in.
+                A JSON API built from the ground up using mongoose and express. This JSON API has complete CRUD functionality with RESTful routes. Deployed to Railway.
                 </p>
-                <p className="fn__desc">
-                  Quisque dui metus, eleifend at enim ac, imperdiet sagittis
-                  dolor. Vestibulum ipsum quam, feugiat non velit sit amet,
-                  pulvinar varius nisl. Mauris tristique, ipsum sit amet lacinia
-                  congue, mauris magna tempus nibh, in mollis eros enim a
-                  tortor. Morbi enim arcu, tristique vitae mi nec, hendrerit
-                  pharetra metus. Phasellus id feugiat purus. In vel elit eu
-                  lacus ultrices feugiat. Etiam at aliquet mi. Nunc sit amet
-                  libero sit amet lectus pellentesque sagittis. Curabitur
-                  blandit ante quis erat dapibus viverra. Maecenas consequat
-                  pulvinar pulvinar. Donec in aliquam arcu. Donec eu laoreet
-                  dolor. Ut nisi lectus, pulvinar ac mattis quis, pretium ac
-                  nulla. Morbi sed ligula ultrices, ornare mauris id, auctor
-                  arcu. Sed pellentesque ex sed erat faucibus, ultrices vehicula
-                  ex dapibus. Aenean venenatis metus eros, vel faucibus lorem
-                  porttitor eu.
-                </p>
+        
               </div>
             </SwiperSlide>
             <SwiperSlide
@@ -135,50 +107,22 @@ const Portfolio = () => {
                 <div className="abs_img" data-bg-img="img/portfolio/3.jpg" />
               </div>
               <div className="title_holder">
-                <p>design, vector</p>
+                <p>Tab & Modal, Axios, Node-Fetch</p>
                 <h3>
-                  <a href="#">Blue Lemon</a>
+                  <a href="#">React Application</a>
                 </h3>
               </div>
               <div className="fn__hidden">
-                <p className="fn__cat">design, vector</p>
-                <h3 className="fn__title">Blue Lemon</h3>
+                <p className="fn__cat">React</p>
+                <h3 className="fn__title">React Application</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
                   <div className="abs_img" data-bg-img="img/portfolio/3.jpg" />
                 </div>
                 <p className="fn__desc">
-                  Sed ornare tellus a odio bibendum, at tristique sapien
-                  malesuada. Proin sagittis maximus accumsan. Class aptent
-                  taciti sociosqu ad litora torquent per conubia nostra, per
-                  inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Quisque gravida quam sit amet elit varius
-                  tempor. Pellentesque purus eros, blandit eu mollis vel,
-                  commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at
-                  nunc consectetur efficitur ut quis est. Proin posuere orci
-                  eget vulputate fringilla. Curabitur placerat massa eget
-                  efficitur cursus. Sed sollicitudin rhoncus blandit. Nam
-                  accumsan vestibulum enim. Sed rutrum eu leo pellentesque
-                  lobortis. Integer ornare fringilla arcu, eu mattis risus
-                  convallis in.
+                Built a Tab and Modal UI pattern application in React and integrated two separate APIS. Built with React, Axios, CSS, JavaScript, Node-fetch.
                 </p>
-                <p className="fn__desc">
-                  Quisque dui metus, eleifend at enim ac, imperdiet sagittis
-                  dolor. Vestibulum ipsum quam, feugiat non velit sit amet,
-                  pulvinar varius nisl. Mauris tristique, ipsum sit amet lacinia
-                  congue, mauris magna tempus nibh, in mollis eros enim a
-                  tortor. Morbi enim arcu, tristique vitae mi nec, hendrerit
-                  pharetra metus. Phasellus id feugiat purus. In vel elit eu
-                  lacus ultrices feugiat. Etiam at aliquet mi. Nunc sit amet
-                  libero sit amet lectus pellentesque sagittis. Curabitur
-                  blandit ante quis erat dapibus viverra. Maecenas consequat
-                  pulvinar pulvinar. Donec in aliquam arcu. Donec eu laoreet
-                  dolor. Ut nisi lectus, pulvinar ac mattis quis, pretium ac
-                  nulla. Morbi sed ligula ultrices, ornare mauris id, auctor
-                  arcu. Sed pellentesque ex sed erat faucibus, ultrices vehicula
-                  ex dapibus. Aenean venenatis metus eros, vel faucibus lorem
-                  porttitor eu.
-                </p>
+           
               </div>
             </SwiperSlide>
             <SwiperSlide
@@ -194,50 +138,23 @@ const Portfolio = () => {
                 <div className="abs_img" data-bg-img="img/portfolio/4.jpg" />
               </div>
               <div className="title_holder">
-                <p>mobile, design</p>
+                <p>React, CRUD, API</p>
                 <h3>
-                  <a href="#">Yellow Phone</a>
+                  <a href="#">Mern React</a>
                 </h3>
               </div>
               <div className="fn__hidden">
-                <p className="fn__cat">mobile, design</p>
-                <h3 className="fn__title">Yellow Phone</h3>
+                <p className="fn__cat">React Application</p>
+                <h3 className="fn__title">Mern React</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
                   <div className="abs_img" data-bg-img="img/portfolio/4.jpg" />
                 </div>
                 <p className="fn__desc">
-                  Sed ornare tellus a odio bibendum, at tristique sapien
-                  malesuada. Proin sagittis maximus accumsan. Class aptent
-                  taciti sociosqu ad litora torquent per conubia nostra, per
-                  inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Quisque gravida quam sit amet elit varius
-                  tempor. Pellentesque purus eros, blandit eu mollis vel,
-                  commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at
-                  nunc consectetur efficitur ut quis est. Proin posuere orci
-                  eget vulputate fringilla. Curabitur placerat massa eget
-                  efficitur cursus. Sed sollicitudin rhoncus blandit. Nam
-                  accumsan vestibulum enim. Sed rutrum eu leo pellentesque
-                  lobortis. Integer ornare fringilla arcu, eu mattis risus
-                  convallis in.
+                This project was built with React and is a front end to one of my classmates deployed API and has partial CRUD functionality that gives a user the ability to create, read, and delete.
                 </p>
-                <p className="fn__desc">
-                  Quisque dui metus, eleifend at enim ac, imperdiet sagittis
-                  dolor. Vestibulum ipsum quam, feugiat non velit sit amet,
-                  pulvinar varius nisl. Mauris tristique, ipsum sit amet lacinia
-                  congue, mauris magna tempus nibh, in mollis eros enim a
-                  tortor. Morbi enim arcu, tristique vitae mi nec, hendrerit
-                  pharetra metus. Phasellus id feugiat purus. In vel elit eu
-                  lacus ultrices feugiat. Etiam at aliquet mi. Nunc sit amet
-                  libero sit amet lectus pellentesque sagittis. Curabitur
-                  blandit ante quis erat dapibus viverra. Maecenas consequat
-                  pulvinar pulvinar. Donec in aliquam arcu. Donec eu laoreet
-                  dolor. Ut nisi lectus, pulvinar ac mattis quis, pretium ac
-                  nulla. Morbi sed ligula ultrices, ornare mauris id, auctor
-                  arcu. Sed pellentesque ex sed erat faucibus, ultrices vehicula
-                  ex dapibus. Aenean venenatis metus eros, vel faucibus lorem
-                  porttitor eu.
-                </p>
+              
+      
               </div>
             </SwiperSlide>
             <SwiperSlide
@@ -253,50 +170,22 @@ const Portfolio = () => {
                 <div className="abs_img" data-bg-img="img/portfolio/5.jpg" />
               </div>
               <div className="title_holder">
-                <p>mobile, design</p>
+                <p>react, application</p>
                 <h3>
-                  <a href="#">Ice Cream</a>
+                  <a href="#">MERN Stack Group Project</a>
                 </h3>
               </div>
               <div className="fn__hidden">
-                <p className="fn__cat">mobile, design</p>
-                <h3 className="fn__title">Ice Cream</h3>
+                <p className="fn__cat">React, Full stack</p>
+                <h3 className="fn__title">MERN Stack Group Project</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
                   <div className="abs_img" data-bg-img="img/portfolio/5.jpg" />
                 </div>
                 <p className="fn__desc">
-                  Sed ornare tellus a odio bibendum, at tristique sapien
-                  malesuada. Proin sagittis maximus accumsan. Class aptent
-                  taciti sociosqu ad litora torquent per conubia nostra, per
-                  inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit. Quisque gravida quam sit amet elit varius
-                  tempor. Pellentesque purus eros, blandit eu mollis vel,
-                  commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at
-                  nunc consectetur efficitur ut quis est. Proin posuere orci
-                  eget vulputate fringilla. Curabitur placerat massa eget
-                  efficitur cursus. Sed sollicitudin rhoncus blandit. Nam
-                  accumsan vestibulum enim. Sed rutrum eu leo pellentesque
-                  lobortis. Integer ornare fringilla arcu, eu mattis risus
-                  convallis in.
+                Group project workout application using full stack mongo/express/react/node application.
                 </p>
-                <p className="fn__desc">
-                  Quisque dui metus, eleifend at enim ac, imperdiet sagittis
-                  dolor. Vestibulum ipsum quam, feugiat non velit sit amet,
-                  pulvinar varius nisl. Mauris tristique, ipsum sit amet lacinia
-                  congue, mauris magna tempus nibh, in mollis eros enim a
-                  tortor. Morbi enim arcu, tristique vitae mi nec, hendrerit
-                  pharetra metus. Phasellus id feugiat purus. In vel elit eu
-                  lacus ultrices feugiat. Etiam at aliquet mi. Nunc sit amet
-                  libero sit amet lectus pellentesque sagittis. Curabitur
-                  blandit ante quis erat dapibus viverra. Maecenas consequat
-                  pulvinar pulvinar. Donec in aliquam arcu. Donec eu laoreet
-                  dolor. Ut nisi lectus, pulvinar ac mattis quis, pretium ac
-                  nulla. Morbi sed ligula ultrices, ornare mauris id, auctor
-                  arcu. Sed pellentesque ex sed erat faucibus, ultrices vehicula
-                  ex dapibus. Aenean venenatis metus eros, vel faucibus lorem
-                  porttitor eu.
-                </p>
+       
               </div>
             </SwiperSlide>
           </Swiper>
