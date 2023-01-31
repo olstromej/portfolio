@@ -12,7 +12,7 @@ const About = () => {
             <h3 className="subtitle">About Me</h3>
             <h3 className="title">Biography</h3>
             <p className="desc">
-              {`I am a challenge-driven systems/software engineer and veteran of the United States Coast Guard. I have always been able to maintain a positive attitude at work even while making life-saving split-second decisions and will provide my team with a unique perspective from these experiences. My dedication to my work, the constant drive to be successful, and the willingness to always provide support to any team I am a part of are reasons I will be an indispensable member of any team!`}
+              {`I am a challenge-driven systems/software engineer and veteran of the United States Coast Guard. I have always been able to maintain a positive attitude at work even while making life-saving split-second decisions and will provide my team with a unique perspective from these experiences. My dedication to my work, the constant drive to be successful, and the willingness to always provide support to any team I am on are reasons I will be an indispensable member of any team!`}
             </p>
           </div>
           {/* /Main Title */}
