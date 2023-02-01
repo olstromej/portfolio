@@ -134,7 +134,7 @@ const About = () => {
                       <div className="item">
                         <div className="item_top">
                           <h5>Fidelity Investments</h5>
-                          <span>( June 2023 — Today )</span>
+                          <span>( June 2023 — Current )</span>
                         </div>
                         <h3>Associate Systems Engineer</h3>
                         <p>
@@ -167,7 +167,7 @@ const About = () => {
                         • Led and oversaw $750K in maintenance projects on-site to ensure optimized vessel operations, ensuring safety for crew of 100+ service members. 
                         • Respond to search and rescue cases and provide emergency trauma care to wounded civilians. 
                         • Create training plans that would maintain qualifications to 60 people on a bi-annual basis. 
-                        • Respond to non-compliant vessels and ensure compliance to all federal laws and regulations. 
+                        • Responded to non-compliant vessels and ensure compliance to all federal laws and regulations. 
                         • Developed, maintained, and facilitated 4 tech onboarding programs, resulting in 30+ certified members.
                         • Coordinated +500 hours of scheduled maintenance and inspections, resulting in 98% federal leadership rate.
                         • Organized and led emergency response drills to efficiently increase response time for search and rescue response, which increased response times by 75%.{" "}
