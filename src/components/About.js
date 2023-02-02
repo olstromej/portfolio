@@ -26,22 +26,12 @@ const About = () => {
                     <th>Edward Olstrom</th>
                   </tr>
                   <tr>
-                    <th>Birthday</th>
-                    <th>21 January 1993</th>
-                  </tr>
-                  <tr>
                     <th>Age</th>
                     <th>30 years</th>
                   </tr>
                   <tr>
                     <th>Address</th>
                     <th>Durham, N.C.</th>
-                  </tr>
-                  <tr>
-                    <th>Phone</th>
-                    <th>
-                      <a href="tel:+19105087320">(+1) 910 508 7320</a>
-                    </th>
                   </tr>
                   <tr>
                     <th>Email</th>
