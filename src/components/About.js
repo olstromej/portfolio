@@ -192,7 +192,7 @@ const About = () => {
                         </div>
                         <h3>Masters Degree</h3>
                         <p>
-                          Studying a Masters Degree in Business Administration with a Concentration in Cybesecurity Management{" "}
+                          Studying a Masters Degree in Business Administration with a Concentration in Cybersecurity Management{" "}
                         </p>
                       </div>
                     </li>
