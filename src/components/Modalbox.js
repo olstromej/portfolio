@@ -7,8 +7,8 @@ const Modalbox = ({ close, value }) => {
       name: "Connect Four",
       tag: "Javascript, HMTL",
       desc: [
-        { p: "A Connect Four game with built-in CSS animation that allows a user to reset after a game has been won. Built with Javascript, HTML, CSS, Flexbox" },
-      
+        { p: "A Connect Four game with built-in CSS animation that allows a user to reset after a game has been won. Built with Javascript, HTML, CSS, Flexbox" }
+    
       ]
 
     },

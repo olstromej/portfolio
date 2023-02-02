@@ -19,7 +19,7 @@ const Intro = () => {
         <div className="intro_content">
           <div className="title_holder">
             <h3>
-              <Link href="/intro">Resumo</Link>
+              <Link href="/intro">Edward's Portfolio</Link>
             </h3>
             <p>Creative personal website template</p>
           </div>
