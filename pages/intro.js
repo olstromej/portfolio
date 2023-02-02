@@ -21,7 +21,7 @@ const Intro = () => {
             <h3>
               <Link href="/intro">Edward's Portfolio</Link>
             </h3>
-            <p>Creative personal website template</p>
+            <p>Personal Website</p>
           </div>
           <div className="v_list">
             <div className="left">

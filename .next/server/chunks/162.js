@@ -39,7 +39,7 @@ const About = ()=>{
                             }),
                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                 className: "desc",
-                                children: `I am a challenge-driven systems/software engineer and veteran of the United States Coast Guard. I have always been able to maintain a positive attitude at work even while making life-saving split-second decisions and will provide my team with a unique perspective from these experiences. My dedication to my work, the constant drive to be successful, and the willingness to always provide support to any team I am a part of are reasons I will be an indispensable member of any team!`
+                                children: `I am a challenge-driven systems/software engineer and veteran of the United States Coast Guard. I have always been able to maintain a positive attitude at work even while making life-saving split-second decisions and will provide my team with a unique perspective from these experiences. My dedication to my work, the constant drive to be successful, and the willingness to always provide support to any team I am on are reasons I will be an indispensable member of any team!`
                             })
                         ]
                     }),
@@ -246,7 +246,7 @@ const About = ()=>{
                                                                             children: "Fidelity Investments"
                                                                         }),
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                                            children: "( June 2023 — Today )"
+                                                                            children: "( June 2023 — Current )"
                                                                         })
                                                                     ]
                                                                 }),
@@ -309,7 +309,7 @@ const About = ()=>{
                                                                 }),
                                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                     children: [
-                                                                        "• Coached and mentored 150+ active-duty members on military operations, training requirements, data entry, which resulted in 50 percent increase in team safety and intentional culture-building. • Managed vessel reporting (data-entry) for 1000+ hours of operations, maintenance, and crew readiness, resulting in 100% OKR evaluation. • Led and oversaw $750K in maintenance projects on-site to ensure optimized vessel operations, ensuring safety for crew of 100+ service members.",
+                                                                        "• Coached and mentored 150+ active-duty members on military operations, training requirements, data entry, which resulted in 50 percent increase in team safety and intentional culture-building. • Managed vessel reporting (data-entry) for 1000+ hours of operations, maintenance, and crew readiness, resulting in 100% OKR evaluation. • Led and oversaw $750K in maintenance projects on-site to ensure optimized vessel operations, ensuring safety for crew of 100+ service members. • Respond to search and rescue cases and provide emergency trauma care to wounded civilians. • Create training plans that would maintain qualifications to 60 people on a bi-annual basis. • Responded to non-compliant vessels and ensure compliance to all federal laws and regulations. • Developed, maintained, and facilitated 4 tech onboarding programs, resulting in 30+ certified members. • Coordinated +500 hours of scheduled maintenance and inspections, resulting in 98% federal leadership rate. • Organized and led emergency response drills to efficiently increase response time for search and rescue response, which increased response times by 75%.",
                                                                         " "
                                                                     ]
                                                                 })
@@ -347,7 +347,7 @@ const About = ()=>{
                                                                 }),
                                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                     children: [
-                                                                        "Studying a Masters Degree in Business Administration with a concentration in Cybesecurity Management",
+                                                                        "Studying a Masters Degree in Business Administration with a Concentration in Cybesecurity Management",
                                                                         " "
                                                                     ]
                                                                 })
@@ -374,7 +374,7 @@ const About = ()=>{
                                                                 }),
                                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                     children: [
-                                                                        "Graduated with a Bachelors Degree in Information Technology, where I acheived a 3.96 GPA, maintained Deans List recognition, and graduated with honors.",
+                                                                        "Graduated with a Bachelors Degree in Information Technology, where I achieved a 3.96 GPA, maintained Deans List recognition, and graduated with honors.",
                                                                         " "
                                                                     ]
                                                                 })
@@ -401,7 +401,7 @@ const About = ()=>{
                                                                 }),
                                                                 /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                                                     children: [
-                                                                        "Graduated with a Bachelors degree in Criminal Justice with a concentration in Homeland Security, where I acheived a 3.75 GPA.",
+                                                                        "Graduated with a Bachelors Degree in Criminal Justice with a Concentration in Homeland Security, where I achieved a 3.75 GPA.",
                                                                         " "
                                                                     ]
                                                                 })
@@ -628,7 +628,7 @@ const Contact = ()=>{
                             }),
                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                 className: "desc",
-                                children: "If you want to reach out to discuss my projects or you want to say “hello”, please fill out the form below and I will reply you shortly."
+                                children: "If you want to reach out to discuss my projects or you want to say “hello”, please fill out the form below and I will reply to you shortly."
                             })
                         ]
                     }),
@@ -774,12 +774,6 @@ const Contact = ()=>{
                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                         className: "resumo_fn_contact_info",
                         children: [
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
-                                children: "Address"
-                            }),
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
-                                children: "1009 Balfoure Drive, Wilmington, NC, 28412"
-                            }),
                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                 children: "Phone"
                             }),
@@ -1492,7 +1486,7 @@ const PanelContent = ()=>{
             strings: [
                 "Edward Olstrom",
                 "Systems Engineer",
-                "Sofware Engineer",
+                "Software Engineer",
                 "Web Developer"
             ],
             loop: true,
