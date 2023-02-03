@@ -178,7 +178,7 @@ const About = () => {
                       <div className="item">
                         <div className="item_top">
                           <h5>Saint Leo University</h5>
-                          <span>( 2023 - Today )</span>
+                          <span>( 2023 - Current )</span>
                         </div>
                         <h3>Masters Degree</h3>
                         <p>
