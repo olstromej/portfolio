@@ -22,6 +22,26 @@ const Portfolio = () => {
             </div>
             <h3 className="subtitle">Portfolio</h3>
             <h3 className="title">Featured Projects</h3>
+            <br></br>
+            <h3 className="subtitle">Githib Links</h3>
+            <div>
+            <a href='https://github.com/olstromej/Connect_Four' target='_blank'>
+            <img className='photo' src='https://i.imgur.com/MTDYjXw_d.jpg?maxwidth=520&shape=thumb&fidelity=high' alt=''/>
+          </a>
+          <a href='https://github.com/olstromej/API_Project2' target='_blank'>
+            <img className='photo' src='https://i.imgur.com/6CLVZ7r.png' alt=''/>
+          </a>
+          
+          <a href='https://github.com/olstromej/api-pattern-project2' target='_blank'>
+            <img className='photo' src='https://i.imgur.com/SiJRdgj_d.jpg?maxwidth=520&shape=thumb&fidelity=high' alt=''/>
+          </a>
+          <a href='https://github.com/olstromej/Mern-React' target='_blank'>
+            <img className='photo' src='https://i.imgur.com/1mCeLOF.png' alt=''/>
+          </a>
+          <a href='https://github.com/Kan5661/unit-3' target='_blank'>
+            <img className='photo' src='https://i.imgur.com/IU0T1Hg_d.jpg?maxwidth=520&shape=thumb&fidelity=high' alt=''/>
+          </a>
+            </div>
           </div>
           {/* /Main Title */}
         </div>
