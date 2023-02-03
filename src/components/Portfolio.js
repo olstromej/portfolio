@@ -42,6 +42,26 @@ const Portfolio = () => {
             <img className='photo' src='https://i.imgur.com/IU0T1Hg_d.jpg?maxwidth=520&shape=thumb&fidelity=high' alt=''/>
           </a>
             </div>
+            <br></br>
+            <h3 className="subtitle">Deployed Links</h3>
+            <div className="container">
+            <a href='https://olstromej.github.io/Connect_Four/' target='_blank'>
+            <img className='photo1' src='https://i.imgur.com/MTDYjXw_d.jpg?maxwidth=520&shape=thumb&fidelity=high' alt=''/>
+          </a>
+          <a href='https://apiproject2-production.up.railway.app/breweries' target='_blank'>
+            <img className='photo1' src='https://i.imgur.com/6CLVZ7r.png' alt=''/>
+          </a>
+          
+          <a href='https://capable-shortbread-fd236c.netlify.app' target='_blank'>
+            <img className='photo1' src='https://i.imgur.com/SiJRdgj_d.jpg?maxwidth=520&shape=thumb&fidelity=high' alt=''/>
+          </a>
+          <a href='https://beautiful-fudge-3091f4.netlify.app/' target='_blank'>
+            <img className='photo1' src='https://i.imgur.com/1mCeLOF.png' alt=''/>
+          </a>
+          <a href='https://reposfit.netlify.app/' target='_blank'>
+            <img className='photo1' src='https://i.imgur.com/IU0T1Hg_d.jpg?maxwidth=520&shape=thumb&fidelity=high' alt=''/>
+          </a>
+            </div>
           </div>
           {/* /Main Title */}
         </div>
