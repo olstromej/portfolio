@@ -315,7 +315,7 @@ const About = ()=>{
                                                                             children: "Saint Leo University"
                                                                         }),
                                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                                                            children: "( 2023 - Today )"
+                                                                            children: "( 2023 - Current )"
                                                                         })
                                                                     ]
                                                                 }),
