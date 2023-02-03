@@ -140,7 +140,7 @@ const About = () => {
                         </div>
                         <h3>Student Software Engineer</h3>
                         <p>
-                        Successfully completed three month, 420-hour full-time and full stack program conducted in-person providing experience with the latest front-end and backend programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Python, Django, Express, NodeJS, and ReactS..{" "}
+                        Successfully completed three month, 420-hour full-time and full stack program conducted in-person providing experience with the latest front-end and backend programming languages, tools, and methodologies including: HTML, CSS, SASS, Javascript, jQuery, PostgreSQL, MongoDB, Python, Django, Express, NodeJS, and ReactS.{" "}
                         </p>
                       </div>
                     </li>
