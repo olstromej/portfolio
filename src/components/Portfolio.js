@@ -24,7 +24,7 @@ const Portfolio = () => {
             <h3 className="title">Featured Projects</h3>
             <br></br>
             <h3 className="subtitle">Githib Links</h3>
-            <div>
+            <div className="container">
             <a href='https://github.com/olstromej/Connect_Four' target='_blank'>
             <img className='photo' src='https://i.imgur.com/MTDYjXw_d.jpg?maxwidth=520&shape=thumb&fidelity=high' alt=''/>
           </a>
